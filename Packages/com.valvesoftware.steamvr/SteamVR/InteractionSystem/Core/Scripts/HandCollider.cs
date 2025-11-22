@@ -2,6 +2,11 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+#if UNITY_6000
+using PhysicMaterial = UnityEngine.PhysicsMaterial;
+using PhysicMaterialCombine = UnityEngine.PhysicsMaterialCombine;
+#endif
+
 namespace Valve.VR.InteractionSystem
 {
     public class HandCollider : MonoBehaviour

@@ -7,6 +7,10 @@
 using UnityEngine;
 using System.Collections;
 
+#if UNITY_6000
+using PhysicMaterial =  UnityEngine.PhysicsMaterial;
+#endif
+
 namespace Valve.VR.InteractionSystem
 {
 	//-------------------------------------------------------------------------
