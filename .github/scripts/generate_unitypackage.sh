@@ -8,7 +8,7 @@
 #        Packages/org.basisvr.bouncycastle-2.5.0.tgz"
 
 # for .tgz's
-PACKAGES="Packages/com.valvesoftware.unity.openvr-1.2.3.tgz"
+PACKAGES="Packages/com.valvesoftware.unity.openvr-1.2.4.tgz"
 SUBFOLDERS="Packages/com.valvesoftware.steamvr"
 EXTRASUBFOLDER=""
 EXTRASUBFOLDERS=""
