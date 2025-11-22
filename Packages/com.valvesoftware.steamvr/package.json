@@ -1,0 +1,7 @@
+{
+  "name": "com.valvesoftware.steamvr",
+  "displayName": "SteamVR",
+  "version": "0.0.1",
+  "description": "OpenVR Plugin for SteamVR",
+  "hideInEditor": false
+}
